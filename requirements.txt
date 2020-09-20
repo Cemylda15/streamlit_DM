@@ -4,7 +4,6 @@ pandas
 matplotlib
 seaborn
 imblearn
-BorutaPy
 RandomForestClassifier
 apriori
 train_test_split
